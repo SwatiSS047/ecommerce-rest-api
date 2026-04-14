@@ -1,4 +1,6 @@
-🛒 E-Commerce REST API (Spring Boot)
+# 🛒 E-Commerce REST API
+
+🚀 Spring Boot backend project for managing users, products, cart, and orders.
 
 A fully functional E-Commerce Backend API built using Spring Boot.
 This project manages Users, Products, Categories, Cart, and Orders with a clean layered architecture and global exception handling.
