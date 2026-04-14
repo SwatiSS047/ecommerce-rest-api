@@ -21,6 +21,7 @@ Database: MySQL
 ORM: Hibernate (JPA)
 Build Tool: Maven
 Testing: Postman
+
 📁 Project Structure
 src/main/java/com/ecom/Springboot_project/
 
