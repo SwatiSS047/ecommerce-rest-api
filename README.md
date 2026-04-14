@@ -71,18 +71,22 @@ Save order
 Clear cart
 
 ❗ Exception Handling
-
+```
 Handled using GlobalExceptionHandler
 
 Handles:
 ResourceNotFoundException → 404
 IllegalArgumentException → 400
 Exception → 500
+```
+---
+```
 Example Response
 {
   "message": "Product not found",
   "status": 404
 }
+```
 🔄 DTO Usage
 
 ProductDto is used to:
