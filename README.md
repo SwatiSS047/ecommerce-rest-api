@@ -69,6 +69,7 @@ Convert into OrderItem
 Calculate total
 Save order
 Clear cart
+
 ❗ Exception Handling
 
 Handled using GlobalExceptionHandler
@@ -89,19 +90,4 @@ ProductDto is used to:
 Hide internal entity structure
 Return clean API response
 Improve performance
-🧪 Testing
 
-Use Postman
-
-Example Flow:
-Register → /users/register
-Login → /users/login
-Add product → /products
-Add to cart → /cart
-Place order → /order/place/{userId}
-📈 Future Enhancements
-🔐 JWT Authentication
-💳 Payment Integration
-⭐ Reviews & Ratings
-📊 Admin Dashboard
-🐳 Docker Deployment
